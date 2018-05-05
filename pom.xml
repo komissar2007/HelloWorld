@@ -3,6 +3,13 @@
   <groupId>HelloWorld</groupId>
   <artifactId>HelloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	<dependency>
+		<groupId>taglibs</groupId>
+		<artifactId>string</artifactId>
+		<version>1.1.0</version>
+	</dependency>
+	</dependencies>
   <build>
 	<plugins>
 	<plugin>
